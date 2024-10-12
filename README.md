@@ -34,3 +34,36 @@ The data set has been extracted.
 
 ((8688,), (1534,))
 
+
+![image](https://github.com/user-attachments/assets/137774b4-55c0-4e3b-908f-14d51fb87f3d)
+
+
+![image](https://github.com/user-attachments/assets/c243ebbd-afa9-46d8-bff5-6c91dafc1f77)
+
+
+
+(32, 128, 128, 3) (32, 120)
+
+
+
+87916544/87910968 [==============================] - 1s 0us/step
+87924736/87910968 [==============================] - 1s 0us/step
+
+
+
+311
+
+
+
+last layer output shape:  (None, 6, 6, 768)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/7f80d4e1-be66-4b6b-962c-5d29585e4b9d)
+
+
+
+![image](https://github.com/user-attachments/assets/2b65c358-9bae-4726-8fca-f4ff8885a1f0)
+
