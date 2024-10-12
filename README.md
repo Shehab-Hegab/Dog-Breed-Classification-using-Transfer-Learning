@@ -75,7 +75,7 @@ The data set has been extracted.
 last layer output shape:  (None, 6, 6, 768)
 
 
-
+##
 
 
 ![image](https://github.com/user-attachments/assets/7f80d4e1-be66-4b6b-962c-5d29585e4b9d)
