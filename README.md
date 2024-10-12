@@ -70,6 +70,8 @@ The data set has been extracted.
 
 
 
+##
+
 last layer output shape:  (None, 6, 6, 768)
 
 
